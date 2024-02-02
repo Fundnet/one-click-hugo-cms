@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.6.0",
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^6.2.4",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
     "babel-plugin-transform-class-properties": "^6.10.2",
@@ -40,12 +40,12 @@
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.6.5",
     "netlify-cms": "^1.0.2",
-    "postcss-cssnext": "^2.7.0",
+    "postcss-cssnext": "^3.1.1",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^0.9.1",
     "postcss-uncss": "^0.14.0",
     "react": "15.6.1",
-    "uncss": "^0.14.1",
+    "uncss": "^0.15.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
